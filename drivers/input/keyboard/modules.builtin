@@ -1,0 +1,2 @@
+kernel/drivers/input/keyboard/gpio_keys.ko
+kernel/drivers/input/keyboard/qt1070.ko

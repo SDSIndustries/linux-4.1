@@ -1,0 +1,1 @@
+cmd_sound/soc/atmel/built-in.o :=  /usr/bin/arm-linux-gnueabi-ld -EL    -r -o sound/soc/atmel/built-in.o sound/soc/atmel/snd-soc-atmel-pcm-dma.o sound/soc/atmel/snd-soc-atmel_ssc_dai.o sound/soc/atmel/snd-soc-atmel-i2s.o sound/soc/atmel/snd-atmel-soc-wm8904.o sound/soc/atmel/snd-atmel-soc-classd.o sound/soc/atmel/snd-atmel-soc-pdmic.o 

@@ -1,0 +1,12 @@
+kernel/drivers/net/wireless/rtl818x/rtl8187/rtl8187.ko
+kernel/drivers/net/wireless/libertas_tf/libertas_tf.ko
+kernel/drivers/net/wireless/libertas_tf/libertas_tf_usb.ko
+kernel/drivers/net/wireless/rt2x00/rt2x00lib.ko
+kernel/drivers/net/wireless/rt2x00/rt2x00usb.ko
+kernel/drivers/net/wireless/rt2x00/rt2800lib.ko
+kernel/drivers/net/wireless/rt2x00/rt2500usb.ko
+kernel/drivers/net/wireless/rt2x00/rt73usb.ko
+kernel/drivers/net/wireless/rt2x00/rt2800usb.ko
+kernel/drivers/net/wireless/mwifiex/mwifiex.ko
+kernel/drivers/net/wireless/mwifiex/mwifiex_sdio.ko
+kernel/drivers/net/wireless/mwifiex/mwifiex_usb.ko

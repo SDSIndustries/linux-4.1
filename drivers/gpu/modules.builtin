@@ -1,0 +1,4 @@
+kernel/drivers/gpu/drm/drm_kms_helper.ko
+kernel/drivers/gpu/drm/drm.ko
+kernel/drivers/gpu/drm/atmel-hlcdc/atmel-hlcdc-dc.ko
+kernel/drivers/gpu/drm/panel/panel-simple.ko

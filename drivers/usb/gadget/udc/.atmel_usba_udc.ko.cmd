@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/udc/atmel_usba_udc.ko := /usr/bin/arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/usb/gadget/udc/atmel_usba_udc.ko drivers/usb/gadget/udc/atmel_usba_udc.o drivers/usb/gadget/udc/atmel_usba_udc.mod.o

@@ -1,0 +1,7 @@
+kernel/drivers/media/i2c/soc_camera/ov2640.ko
+kernel/drivers/media/i2c/soc_camera/ov5642.ko
+kernel/drivers/media/i2c/soc_camera/ov6650.ko
+kernel/drivers/media/i2c/soc_camera/ov772x.ko
+kernel/drivers/media/i2c/soc_camera/ov7740.ko
+kernel/drivers/media/i2c/soc_camera/ov9640.ko
+kernel/drivers/media/i2c/soc_camera/ov9740.ko

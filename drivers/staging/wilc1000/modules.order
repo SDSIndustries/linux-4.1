@@ -1,0 +1,2 @@
+kernel/drivers/staging/wilc1000/wilc1000.ko
+kernel/drivers/staging/wilc1000/wilc1000-sdio.ko

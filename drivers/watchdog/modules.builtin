@@ -1,0 +1,2 @@
+kernel/drivers/watchdog/at91sam9_wdt.ko
+kernel/drivers/watchdog/sama5d4_wdt.ko

@@ -1,0 +1,27 @@
+* AT91 SAMA5D2 Analog to Digital Converter (ADC)
+
+Required properties:
+  - compatible: Should be "atmel,sama5d2-adc".
+  - reg: Should contain ADC registers location and length.
+  - interrupts: Should contain the IRQ line for the ADC.
+  - clocks: phandles to clocks.
+  - clock-names: tuple listing clock names.
+      Required elements: "adc_clk", "adc_op_clk". "adc_clk" is the peripheral
+      clock, "adc_clk" is the sampling clock.
+  - vref-supply: Supply used as reference for conversions.
+
+Optional properties:
+  - vddana-supply: Supply for the adc device.
+
+
+Example:
+
+adc: adc@fc030000 {
+	compatible = "atmel,sama5d2-adc";
+	reg = <0xfc030000 0x100>;
+	interrupts = <40 IRQ_TYPE_LEVEL_HIGH 7>;
+	clocks = <&adc_clk>, <&adc_op_clk>;
+	clock-names = "adc_clk", "adc_op_clk";
+	vddana-supply = <&vdd_3v3_lp_reg>;
+	vref-supply = <&vdd_3v3_lp_reg>;
+}

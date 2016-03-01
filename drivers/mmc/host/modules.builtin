@@ -1,0 +1,4 @@
+kernel/drivers/mmc/host/sdhci.ko
+kernel/drivers/mmc/host/atmel-mci.ko
+kernel/drivers/mmc/host/sdhci-pltfm.ko
+kernel/drivers/mmc/host/sdhci-of-at91.ko

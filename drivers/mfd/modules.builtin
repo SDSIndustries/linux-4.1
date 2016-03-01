@@ -1,0 +1,4 @@
+kernel/drivers/mfd/act8945a.ko
+kernel/drivers/mfd/mfd-core.ko
+kernel/drivers/mfd/atmel-flexcom.ko
+kernel/drivers/mfd/atmel-hlcdc.ko

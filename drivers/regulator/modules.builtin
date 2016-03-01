@@ -1,0 +1,4 @@
+kernel/drivers/regulator/fixed.ko
+kernel/drivers/regulator/virtual.ko
+kernel/drivers/regulator/act8865-regulator.ko
+kernel/drivers/regulator/act8945a-regulator.ko

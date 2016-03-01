@@ -1,0 +1,12 @@
+at91-sama5d3_xplained.o: arch/arm/boot/dts/at91-sama5d3_xplained.dts \
+ arch/arm/boot/dts/sama5d36.dtsi arch/arm/boot/dts/sama5d3.dtsi \
+ arch/arm/boot/dts/skeleton.dtsi \
+ arch/arm/boot/dts/include/dt-bindings/dma/at91.h \
+ arch/arm/boot/dts/include/dt-bindings/pinctrl/at91.h \
+ arch/arm/boot/dts/include/dt-bindings/interrupt-controller/irq.h \
+ arch/arm/boot/dts/include/dt-bindings/gpio/gpio.h \
+ arch/arm/boot/dts/include/dt-bindings/clock/at91.h \
+ arch/arm/boot/dts/sama5d3_can.dtsi arch/arm/boot/dts/sama5d3_gmac.dtsi \
+ arch/arm/boot/dts/sama5d3_emac.dtsi arch/arm/boot/dts/sama5d3_lcd.dtsi \
+ arch/arm/boot/dts/sama5d3_mci2.dtsi arch/arm/boot/dts/sama5d3_tcb1.dtsi \
+ arch/arm/boot/dts/sama5d3_uart.dtsi

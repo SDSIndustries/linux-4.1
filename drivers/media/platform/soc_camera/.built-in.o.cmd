@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/soc_camera/built-in.o :=  /usr/bin/arm-linux-gnueabi-ld -EL    -r -o drivers/media/platform/soc_camera/built-in.o drivers/media/platform/soc_camera/soc_camera.o drivers/media/platform/soc_camera/soc_mediabus.o drivers/media/platform/soc_camera/atmel-isi.o 

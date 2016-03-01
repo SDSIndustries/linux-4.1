@@ -1,0 +1,3 @@
+kernel/drivers/leds/trigger/ledtrig-timer.ko
+kernel/drivers/leds/trigger/ledtrig-heartbeat.ko
+kernel/drivers/leds/trigger/ledtrig-gpio.ko

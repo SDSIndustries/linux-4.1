@@ -1,0 +1,6 @@
+kernel/drivers/net/can/can-dev.ko
+kernel/drivers/net/can/at91_can.ko
+kernel/drivers/net/can/m_can/m_can.ko
+kernel/drivers/net/ethernet/cadence/macb.ko
+kernel/drivers/net/phy/libphy.ko
+kernel/drivers/net/phy/micrel.ko

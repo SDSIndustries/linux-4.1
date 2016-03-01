@@ -1,0 +1,1 @@
+cmd_kernel/locking/built-in.o :=  /usr/bin/arm-linux-gnueabi-ld -EL    -r -o kernel/locking/built-in.o kernel/locking/mutex.o kernel/locking/semaphore.o kernel/locking/rwsem.o kernel/locking/rtmutex.o kernel/locking/rwsem-xadd.o 

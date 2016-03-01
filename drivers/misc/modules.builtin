@@ -1,0 +1,2 @@
+kernel/drivers/misc/atmel-ssc.ko
+kernel/drivers/misc/eeprom/at24.ko

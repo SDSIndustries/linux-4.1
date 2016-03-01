@@ -1,0 +1,8 @@
+kernel/sound/soc/snd-soc-core.ko
+kernel/sound/soc/atmel/snd-soc-atmel-pcm-dma.ko
+kernel/sound/soc/atmel/snd-soc-atmel_ssc_dai.ko
+kernel/sound/soc/atmel/snd-soc-atmel-i2s.ko
+kernel/sound/soc/atmel/snd-atmel-soc-wm8904.ko
+kernel/sound/soc/atmel/snd-atmel-soc-classd.ko
+kernel/sound/soc/atmel/snd-atmel-soc-pdmic.ko
+kernel/sound/soc/codecs/snd-soc-wm8904.ko

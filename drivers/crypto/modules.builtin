@@ -1,0 +1,3 @@
+kernel/drivers/crypto/atmel-aes.ko
+kernel/drivers/crypto/atmel-sha.ko
+kernel/drivers/crypto/atmel-tdes.ko

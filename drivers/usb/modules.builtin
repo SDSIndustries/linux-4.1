@@ -1,0 +1,12 @@
+kernel/drivers/usb/class/cdc-acm.ko
+kernel/drivers/usb/common/usb-common.ko
+kernel/drivers/usb/core/usbcore.ko
+kernel/drivers/usb/gadget/udc/udc-core.ko
+kernel/drivers/usb/host/ehci-hcd.ko
+kernel/drivers/usb/host/ehci-atmel.ko
+kernel/drivers/usb/host/ohci-hcd.ko
+kernel/drivers/usb/host/ohci-at91.ko
+kernel/drivers/usb/serial/usbserial.ko
+kernel/drivers/usb/serial/ftdi_sio.ko
+kernel/drivers/usb/serial/pl2303.ko
+kernel/drivers/usb/storage/usb-storage.ko

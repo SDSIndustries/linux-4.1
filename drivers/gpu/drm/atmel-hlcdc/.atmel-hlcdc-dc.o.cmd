@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/atmel-hlcdc/atmel-hlcdc-dc.o := /usr/bin/arm-linux-gnueabi-ld -EL    -r -o drivers/gpu/drm/atmel-hlcdc/atmel-hlcdc-dc.o drivers/gpu/drm/atmel-hlcdc/atmel_hlcdc_crtc.o drivers/gpu/drm/atmel-hlcdc/atmel_hlcdc_dc.o drivers/gpu/drm/atmel-hlcdc/atmel_hlcdc_layer.o drivers/gpu/drm/atmel-hlcdc/atmel_hlcdc_output.o drivers/gpu/drm/atmel-hlcdc/atmel_hlcdc_plane.o 

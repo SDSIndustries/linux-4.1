@@ -1,0 +1,2 @@
+kernel/drivers/iio/adc/at91_adc.ko
+kernel/drivers/iio/adc/at91-sama5d2_adc.ko

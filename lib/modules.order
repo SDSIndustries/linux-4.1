@@ -1,0 +1,2 @@
+kernel/lib/crc-ccitt.ko
+kernel/lib/crc-itu-t.ko

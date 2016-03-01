@@ -1,0 +1,1 @@
+cmd_drivers/staging/wilc1000/wilc1000.ko := /usr/bin/arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/staging/wilc1000/wilc1000.ko drivers/staging/wilc1000/wilc1000.o drivers/staging/wilc1000/wilc1000.mod.o
